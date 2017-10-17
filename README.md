@@ -1,3 +1,3 @@
-#goshit
+# goshit
 
 **Go**d awful language
